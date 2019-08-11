@@ -1,0 +1,7 @@
+﻿  mat.cpp
+  smat.cpp
+  sparse.cpp
+C:\Users\phg\실습\Jagu_0712\Jagu_0712\sparse.cpp(165,9): warning C4101:  'j' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+C:\Users\phg\실습\Jagu_0712\Jagu_0712\sparse.cpp(165,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+  Jagu_0712.vcxproj -> C:\Users\phg\실습\Jagu_0712\Debug\Jagu_0712.exe
