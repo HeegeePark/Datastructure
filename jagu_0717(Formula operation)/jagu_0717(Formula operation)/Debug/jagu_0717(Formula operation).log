@@ -1,0 +1,8 @@
+﻿  emain.cpp
+c:\users\user\source\repos\jagu_0717(formula operation)\jagu_0717(formula operation)\emain.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\source\repos\jagu_0717(formula operation)\jagu_0717(formula operation)\emain.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\source\repos\jagu_0717(formula operation)\jagu_0717(formula operation)\emain.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\source\repos\jagu_0717(formula operation)\jagu_0717(formula operation)\emain.cpp(54): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\jagu_0717(formula operation)\jagu_0717(formula operation)\emain.cpp(43): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\source\repos\jagu_0717(formula operation)\jagu_0717(formula operation)\emain.cpp(178): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  jagu_0717(Formula operation).vcxproj -> C:\Users\user\source\repos\jagu_0717(Formula operation)\Debug\jagu_0717(Formula operation).exe
