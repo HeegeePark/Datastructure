@@ -1,0 +1,5 @@
+﻿  suffixs.cpp
+c:\users\user\datastructure\baekjoon\algorithm-study\bj_11656(접미사배열)\bj_11656(접미사배열)\suffixs.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\datastructure\baekjoon\algorithm-study\bj_11656(접미사배열)\bj_11656(접미사배열)\suffixs.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\datastructure\baekjoon\algorithm-study\bj_11656(접미사배열)\bj_11656(접미사배열)\suffixs.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BJ_11656(접미사배열).vcxproj -> C:\Users\user\DataStructure\Baekjoon\Algorithm-Study\BJ_11656(접미사배열)\Debug\BJ_11656(접미사배열).exe
