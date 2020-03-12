@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
+#define max(a,b) (((a)>(b))?(a):(b))
 using namespace std;
 
 int main() {
@@ -7,7 +8,7 @@ int main() {
 	long N;
 	int scoreSum = 0;		// 최대 점수
 	long**s;		// 점수저장
-	long**d;		// 스티커 사용여부저장
+	long**d;		// 스티커 최대점수저장
 
 	cin >> T;
 
@@ -25,59 +26,33 @@ int main() {
 			}
 		}
 
-		// 탐색 및 선택 여부를 저장할 2차원배열(2*N) 생성하고 0(스티커를 뜯지않음)으로 초기화
-		d = (long**)malloc(sizeof(long*) * 2);
-		for (int i = 0; i < 2; i++) {
-			d[i] = (long*)malloc(sizeof(long) * N);
+		// 스티커의 최대점수를 저장할 2차원배열(2*N) 생성
+		// d[i][j] : i번째 열에서 j상태(0= 안뜯, 1= 위뜯, 2= 아래뜯)에 따른 최대점수
+		d = (long**)malloc(sizeof(long*) * N);
+		for (int i = 0; i < N; i++) {
+			d[i] = (long*)malloc(sizeof(long) * 3);
 		}
-		for (int i = 0; i < 2; i++) {
-			for (int j = 0; j < N; j++) {
-				d[i][j] = { 0 };
-			}
-		}
+		
 
 
 		// 스티커 최대 점수 구하기(다이나믹)
-		for (int i = 0; i < 2; i++) {
-			// 첫번째 행
+		for (int i = 0; i < N; i++) {
 			if (i == 0) {
-				for (int j = 0; j < N; j++) {
-					if (j == 0) {		// 처음에는 뜯고 시작하기
-						d[i][j] = 1;
-					}
-					if (s[i][j] > s[i][j - 1]) {		// 현재 스티커점수가 좌측 스티커점수보다 클 때
-						d[i][j] = 1;
-						d[i][j - 1] = 0;
-					}
-				}
+				d[0][0] = 0;
+				d[0][1] = s[0][0];
+				d[0][2] = s[1][0];
 			}
-
-			// 두번째 행 (첫번째 행을 고려하며 탐색)
 			else {
-				for (int j = 0; j < N; j++) {
-					if (d[i - 1][j] == 1) {		// 위로 인접한 스티커가 뜯어져있을 때
-						if (s[i][j] > s[i - 1][j]) {		// 점수는 현재 스티커가 높을 때 => 위 스티커 0, 현재 스티커 1
-							d[i][j] = 1;
-							d[i - 1][j] = 0;
-						}
-					}
-					else {		// 위 스티커를 안뜯었다면 현재 스티커 뜯고 이전 스티커랑도 점수 비교
-						if (j == 0) d[i][j] = 1;
-						else {
-							if (s[i][j] > s[i][j - 1]) {		// 현재 스티커점수가 좌측 스티커점수보다 클 때
-								d[i][j] = 1;
-								d[i][j - 1] = 0;
-							}
-						}
-					}
-				}
+				d[i][0] = max(d[i - 1][0], max(d[i - 1][1], d[i - 1][2]));
+				d[i][1] = max(d[i - 1][0], d[i - 1][2]) +s[0][i];
+				d[i][2] = max(d[i - 1][0], d[i - 1][1]) + s[1][i];
 			}
 		}
 
-		for (int i = 0; i < 2; i++) {
-			for (int j = 0; j < N; j++) {
-				if (d[i][j] == 1) {
-					scoreSum += s[i][j];
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < 3; j++) {
+				if (d[i][j] >=scoreSum) {
+					scoreSum = d[i][j];
 				}
 			}
 		}
