@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 	int N;
 	int A[1000];		// 수열
-	int d[1000];		// 가장 긴 수열 길이를 저장하는 다이나믹 벡터 배열
+	int d[1000];		// 가장 긴 수열 길이를 저장하는 다이나믹 배열
 	vector<int> temp;		// max를 찾을 temp 벡터
 	int len_max = 0;
 
