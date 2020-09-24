@@ -1,7 +1,10 @@
+import java.util.*
+import kotlin.collections.ArrayList
+
 fun main(){
     val info: Array<String> = arrayOf("java backend junior pizza 150","python frontend senior chicken 210","python frontend senior chicken 150","cpp backend senior pizza 260","java backend junior chicken 80","python backend senior chicken 50")
     val query: Array<String> = arrayOf("java and backend and junior and pizza 100","python and frontend and senior and chicken 200","cpp and - and senior and pizza 250","- and backend and senior and - 150","- and - and - and chicken 100","- and - and - and - 150")
-    println(Solution().solution(info, query))
+    println(Arrays.toString(Solution().solution(info, query)))
 }
 
 data class Volunteer(
@@ -12,12 +15,11 @@ data class Volunteer(
     val score: Int
 )
 
-// 3번 문제 (풀이중)
+// 3번 문제 (풀었는데, 출력 결과가 뭐였는지 기억안남, 내일 인나서 노가다 해봐야딩~)
 class Solution {
-    fun solution(info: Array<String>, query: Array<String>): IntArray {
-        var answer: IntArray = intArrayOf()
+    fun solution(info: Array<String>, query: Array<String>): Array<Int> {
+        val answer = Array<Int>(query.size, {i -> 0})
         val volunteerList :ArrayList<Volunteer> = arrayListOf()
-        var who_selected: ArrayList<Int> = arrayListOf()
 
         // 지원자 정보 엔티티에 저장
         for (data in info) {
@@ -26,31 +28,33 @@ class Solution {
         }
 
         // 쿼리 분석하여 answer에 결과 저장
-        for (i in 0..query.size) {
+        for (i in 0 until query.size) {
             query[i] = query[i].replace(" and ", " ")
             val filters = query[i].split(" ")
 
-            who_selected = filter_volunteer(filters, volunteerList)
-            answer[i] = who_selected.size
-            who_selected.clear()
+            answer[i] = filter_volunteer(filters, volunteerList)
         }
 
         return answer
     }
 
-    fun filter_volunteer(property: List<String>, volunteers: ArrayList<Volunteer>): ArrayList<Int> {
-        var selectList: ArrayList<Int> = ArrayList()
+    fun filter_volunteer(property: List<String>, volunteers: ArrayList<Volunteer>): Int {
+        var countSelected: Int = 0
 
-        volunteers = volunteers.filter {
-            (it.language.equals(property[0])) &&
-                    (it.jobgroup.equals(property[1])) &&
-                    (it.career.equals(property[2])) &&
-                    (it.soulfood.equals(property[3])) &&
-                    (it.score.toString().equals(property[4])) &&
+        volunteers.filter {
+            (it.language.equals(property[0]) || property[0].equals("-")) &&
+                    (it.jobgroup.equals(property[1]) || property[1].equals("-")) &&
+                    (it.career.equals(property[2]) || property[2].equals("-")) &&
+                    (it.soulfood.equals(property[3]) || property[3].equals("-")) &&
+                    (it.score >= property[4].toInt() || property[4].equals("-"))
 
-        }.forEach(selectList.add(it.))
+        }.forEach {
+            println("${it}")
+            countSelected++
+        }
+        println(countSelected)
 
-        return selectList
+        return countSelected
     }
 }
 
