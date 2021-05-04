@@ -1,35 +1,28 @@
 import Foundation
 
 func solution(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int {
-    var answer = n - lost.count
-    // 중복이 없으므로, set으로 변환
-    var lostSet = Set(lost)
-    var reserveSet = Set(reserve)
-    
-    // 여별이 있는 학생이 도난 당했을 경우 -> 체육복 하나니까 두 set에서 제거
-    for student in reserveSet {
-        if lostSet.contains(student) {
-            answer += 1
-            lostSet.remove(student)
-            reserveSet.remove(student)
-        }
+  // 없는 사람 0 / 옷 한벌 1 / 여분 소지 2
+  var student = [Int](repeating: 1, count: n)
+  for i in lost {
+    let index = i - 1
+    student[index] -= 1
+  }
+  for i in reserve {
+    let index = i - 1
+    student[index] += 1
+  }
+  // 체육복 빌려주기
+  for (index, value) in student.enumerated() {
+    if value == 0 {
+      if index > 0 && student[index - 1] == 2 {
+        student[index - 1] -= 1
+        student[index] += 1
+      } else if index < student.count - 1 && student[index + 1] == 2 {
+        student[index + 1] -= 1
+        student[index] += 1
+      }
     }
-    
-    // 체육복 빌릴 수 있는 친구 탐색하고
-    // 다시 빌리는걸 방지하기 위해 빌리면 set에서 제거
-    for student in lostSet {
-        if reserveSet.contains(student - 1) {
-            answer += 1
-            reserveSet.remove(student - 1)
-            lostSet.remove(student)
-            continue
-        }
-        if reserveSet.contains(student + 1) {
-            answer += 1
-            reserveSet.remove(student + 1)
-            lostSet.remove(student)
-        }
-    }
-    
-    return answer
+  }
+    let answer = student.filter { $0 >= 1 }.count
+  return answer
 }
