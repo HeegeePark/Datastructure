@@ -1,4 +1,5 @@
-// 2020 카카오 채용 문자열 압축
+//: 2020 카카오 채용 문자열 압축
+
 import Foundation
 
 func solution(_ s:String) -> Int {
