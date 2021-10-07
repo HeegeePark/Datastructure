@@ -1,6 +1,11 @@
 # Datastructure
 (수정중)
 
+### Greedy
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[75. 최대 수입 스케쥴](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Greedy/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/main.cpp)|인프런|`C++`|풀이 완료 ✅|구조체, Vector, 우선순위큐|
+
 ### Queue
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
