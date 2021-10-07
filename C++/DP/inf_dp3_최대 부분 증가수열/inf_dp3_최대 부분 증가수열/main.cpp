@@ -26,7 +26,7 @@ int main(int argc, const char * argv[]) {
     dy[1] = 1;
     for (int i=2; i<=n; i++) {
         int max = 0;
-        for (int j=i; j>=1; j--) {
+        for (int j=i-1; j>=1; j--) {
             if(arr[j] < arr[i] && dy[j] > max) // 앞의 수(j)가 현재 수(i)보다 작으면서, j에서 최대 길이가 max보다 클 때
                 max = dy[j];
         }
