@@ -5,6 +5,7 @@
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[73. 최대힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_73_%EC%B5%9C%EB%8C%80%ED%9E%99(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)/inf_73_%EC%B5%9C%EB%8C%80%ED%9E%99(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
+|[74. 최소힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
 
 
 ### BFS
