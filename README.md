@@ -26,6 +26,7 @@
 |[계단 오르기](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp2_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/inf_dp2_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/main.cpp)|인프런|`C++`|풀이 완료 ✅||
 |[최대 부분 증가수열(LIS)](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp3_%EC%B5%9C%EB%8C%80%20%EB%B6%80%EB%B6%84%20%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4/inf_dp3_%EC%B5%9C%EB%8C%80%20%EB%B6%80%EB%B6%84%20%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4/main.cpp)|인프런|`C++`|풀이 완료 ✅||
 |[최대 선 연결하기](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp4_%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/inf_dp4_%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/main.cpp)|인프런|`C++`|풀이 완료 ✅|LIS 응용|
+|[N으로 표현](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DP.playground/Pages/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 
 ### Simulation
 |문제|출처|사용 언어|상태|비고|
