@@ -35,6 +35,11 @@
 |:------:|:---:|:---:|:---:|:---:|
 |[7주차_입실 퇴실](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/EnterLeave.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 
+### 정렬
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[H-Index](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%A0%95%EB%A0%AC.playground/Pages/HIndex.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-06/HIndex)|
+
 ---
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
