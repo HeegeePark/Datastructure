@@ -12,7 +12,7 @@
 |:------:|:---:|:---:|:---:|:---:|
 |[73. 최대힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_73_%EC%B5%9C%EB%8C%80%ED%9E%99(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)/inf_73_%EC%B5%9C%EB%8C%80%ED%9E%99(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
 |[74. 최소힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
-|[기능 개발](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/DevelopFeature.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[기능 개발](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/DevelopFeature.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|
 
 
 ### BFS
