@@ -5,7 +5,7 @@
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[75. 최대 수입 스케쥴](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Greedy/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/main.cpp)|인프런|`C++`|풀이 완료 ✅|구조체, Vector, 우선순위큐|
-|[체육복](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Greedy/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/main.cpp)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[체육복](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Greedy/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/main.cpp)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 정리](https://heegeepark.github.io//articles/2021-05/%EC%B2%B4%EC%9C%A1%EB%B3%B5)|
 
 ### Queue
 |문제|출처|사용 언어|상태|비고|
