@@ -40,6 +40,11 @@
 |:------:|:---:|:---:|:---:|:---:|
 |[H-Index](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%A0%95%EB%A0%AC.playground/Pages/HIndex.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-06/HIndex)|
 
+### 카카오 기출
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[거리두기 확인하기](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/CheckSocialDistance.xcplaygroundpage/Contents.swift)|2021 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-09/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)|
+
 ---
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
