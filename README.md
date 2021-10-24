@@ -43,6 +43,8 @@
 ### 카카오 기출
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
+|[튜플](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/Tuple.xcplaygroundpage/Contents.swift)|2019 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/tuple)|
+|[오픈채팅방](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/OpenChattingRoom.xcplaygroundpage/Contents.swift)|2019 카카오|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)|
 |[거리두기 확인하기](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/CheckSocialDistance.xcplaygroundpage/Contents.swift)|2021 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-09/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)|
 
 ---
