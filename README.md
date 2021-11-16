@@ -39,6 +39,7 @@
 |:------:|:---:|:---:|:---:|:---:|
 |[H-Index](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%A0%95%EB%A0%AC.playground/Pages/HIndex.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-06/HIndex)|
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-04/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98)|
+|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-05/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)|
 
 ### 카카오 기출
 |문제|출처|사용 언어|상태|비고|
