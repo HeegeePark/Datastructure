@@ -49,6 +49,7 @@
 |[거리두기 확인하기](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/CheckSocialDistance.xcplaygroundpage/Contents.swift)|2021 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-09/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)|
 |[메뉴 리뉴얼](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/MenuRenewal.xcplaygroundpage/Contents.swift)|2021 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/%EB%A9%94%EB%89%B4-%EB%A6%AC%EB%89%B4%EC%96%BC)|
 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|2022 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-06/Keypad)|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=swift)|2019 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-12/failureRate)|
 ---
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
