@@ -33,6 +33,7 @@
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[7주차_입실 퇴실](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/EnterLeave.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[약수의 개수와 덧셈](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 
 ### 정렬
 |문제|출처|사용 언어|상태|비고|
