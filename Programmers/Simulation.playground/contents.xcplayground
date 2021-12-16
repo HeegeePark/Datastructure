@@ -4,5 +4,6 @@
         <page name='EnterLeave'/>
         <page name='DivisorCount&amp;Addition'/>
         <page name='SumNoExistNumber'/>
+        <page name='Reverse3'/>
     </pages>
 </playground>
