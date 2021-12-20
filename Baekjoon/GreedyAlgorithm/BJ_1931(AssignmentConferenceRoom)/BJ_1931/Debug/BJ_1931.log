@@ -1,3 +1,0 @@
-﻿  conference.cpp
-C:\Users\phg\DataStructure\Baekjoon\GreedyAlgorithm\BJ_1931(AssignmentConferenceRoom)\BJ_1931\conference.cpp(25,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
-  BJ_1931.vcxproj -> C:\Users\phg\DataStructure\Baekjoon\GreedyAlgorithm\BJ_1931(AssignmentConferenceRoom)\Debug\BJ_1931.exe
