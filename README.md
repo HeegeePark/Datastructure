@@ -8,6 +8,7 @@
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-05/%EC%B2%B4%EC%9C%A1%EB%B3%B5)|
 |[예산](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Budget.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[1931. 회의실 배정](https://github.com/HeegeePark/DataStructure/blob/12fc0b0ac82692c887eda8fd5c9804d7b41b4891/Baekjoon/GreedyAlgorithm/BJ_1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95)/BJ_1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95)/main.swift)|백준|`Swift`|풀이 완료 ✅||
+|[두 개 뽑아서 더하기](https://github.com/HeegeePark/DataStructure/blob/0c0a33f6175a29bdfb53dbef6c469d07315ba3c1/Programmers/Greedy.playground/Pages/AddTwoChoice.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 
 ### Queue
 |문제|출처|사용 언어|상태|비고|
