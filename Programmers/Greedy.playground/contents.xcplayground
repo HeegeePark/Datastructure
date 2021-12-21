@@ -3,5 +3,6 @@
     <pages>
         <page name='Uniform'/>
         <page name='Budget'/>
+        <page name='AddTwoChoice'/>
     </pages>
 </playground>
