@@ -1,5 +1,4 @@
 # Datastructure
-(수정중)
 
 ### Greedy
 |문제|출처|사용 언어|상태|비고|
