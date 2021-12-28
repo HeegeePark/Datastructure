@@ -6,5 +6,6 @@
         <page name='SumNoExistNumber'/>
         <page name='Reverse3'/>
         <page name='2016'/>
+        <page name='MinimumRectangle'/>
     </pages>
 </playground>
