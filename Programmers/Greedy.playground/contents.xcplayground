@@ -4,5 +4,6 @@
         <page name='Uniform'/>
         <page name='Budget'/>
         <page name='AddTwoChoice'/>
+        <page name='Reminder1'/>
     </pages>
 </playground>
