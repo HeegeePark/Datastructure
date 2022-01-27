@@ -7,5 +7,6 @@
         <page name='Tuple'/>
         <page name='CraneGame'/>
         <page name='StringComression'/>
+        <page name='ReportResult'/>
     </pages>
 </playground>
