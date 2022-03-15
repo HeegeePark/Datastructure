@@ -3,5 +3,6 @@
     <pages>
         <page name='HIndex'/>
         <page name='LargestNumber'/>
+        <page name='DiskController'/>
     </pages>
 </playground>
