@@ -13,7 +13,6 @@ func solution(_ jobs:[[Int]]) -> Int {
         else { return $0.first! < $1.first! }
     }
     
-    
     // 2. 처음 할 작업만 작업 큐에 삽입
     queue.append(sortedJobs.removeFirst())
     timeline = queue.first![0]
