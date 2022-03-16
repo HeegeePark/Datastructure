@@ -52,7 +52,10 @@
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-04/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98)|
 |[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-05/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/k%EB%B2%88%EC%A7%B8%EC%88%98)|
+|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|프로그래머스|`Swift`|풀이 완료 ✅||
 
+
+https://github.com/HeegeePark/DataStructure/blob/c392077f323440432aa5c265715c1efb83e9dc82/Programmers/%EC%A0%95%EB%A0%AC.playground/Pages/DiskController.xcplaygroundpage/Contents.swift
 ### 카카오 기출
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
