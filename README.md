@@ -17,6 +17,11 @@
 |[74. 최소힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
 |[기능 개발](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/DevelopFeature.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|
 
+### DFS
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/TravelRoute.xcplaygroundpage/Contents.swift)|
+
 ### BFS
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
