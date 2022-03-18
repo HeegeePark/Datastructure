@@ -5,5 +5,6 @@
         <page name='WordConversion'/>
         <page name='Network'/>
         <page name='TargetNumber'/>
+        <page name='NQueen'/>
     </pages>
 </playground>
