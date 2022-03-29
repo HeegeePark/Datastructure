@@ -46,7 +46,7 @@
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[7주차_입실 퇴실](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/EnterLeave.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-10/week7)|
-|[약수의 개수와 덧셈](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|
 |[없는 숫자 더하기](https://github.com/HeegeePark/DataStructure/blob/38f42d560266b1de95903ef536058d4068479567/Programmers/Simulation.playground/Pages/SumNoExistNumber.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[3진법 뒤집기](https://github.com/HeegeePark/DataStructure/blob/9961857d7834e8c2d776a61e26f6d8666934f7ec/Programmers/Simulation.playground/Pages/Reverse3.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[2016년](https://github.com/HeegeePark/DataStructure/blob/508c16f4ea3bc877d7ea4013dd64e29565d46392/Programmers/Simulation.playground/Pages/2016.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
