@@ -5,10 +5,10 @@
 |:------:|:---:|:---:|:---:|:---:|
 |[75. 최대 수입 스케쥴](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Greedy/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/inf_75_%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A5%B4/main.cpp)|인프런|`C++`|풀이 완료 ✅|구조체, Vector, 우선순위큐|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-05/%EC%B2%B4%EC%9C%A1%EB%B3%B5)|
-|[예산](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Budget.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[1931. 회의실 배정](https://github.com/HeegeePark/DataStructure/blob/12fc0b0ac82692c887eda8fd5c9804d7b41b4891/Baekjoon/GreedyAlgorithm/BJ_1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95)/BJ_1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95)/main.swift)|백준|`Swift`|풀이 완료 ✅||
-|[두 개 뽑아서 더하기](https://github.com/HeegeePark/DataStructure/blob/0c0a33f6175a29bdfb53dbef6c469d07315ba3c1/Programmers/Greedy.playground/Pages/AddTwoChoice.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[나머지가 1이 되는 수 찾기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Reminder1.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Budget.xcplaygroundpage/Contents.swift)|
+|[1931. 회의실 배정](https://www.acmicpc.net/problem/1931)|백준|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/12fc0b0ac82692c887eda8fd5c9804d7b41b4891/Baekjoon/GreedyAlgorithm/BJ_1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95)/BJ_1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95)/main.swift)|
+|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/0c0a33f6175a29bdfb53dbef6c469d07315ba3c1/Programmers/Greedy.playground/Pages/AddTwoChoice.xcplaygroundpage/Contents.swift)|
+|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Reminder1.xcplaygroundpage/Contents.swift)|
 
 ### Queue
 |문제|출처|사용 언어|상태|비고|
@@ -22,6 +22,9 @@
 |:------:|:---:|:---:|:---:|:---:|
 |[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/TravelRoute.xcplaygroundpage/Contents.swift)|
 |[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/NQueen)|
+|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/Network.xcplaygroundpage/Contents.swift)|
+|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/TargetNumber.xcplaygroundpage/Contents.swift)|
+|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/WordConversion.xcplaygroundpage/Contents.swift)|
 
 ### BFS
 |문제|출처|사용 언어|상태|비고|
@@ -36,21 +39,19 @@
 |[계단 오르기](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp2_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/inf_dp2_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/main.cpp)|인프런|`C++`|풀이 완료 ✅||
 |[최대 부분 증가수열(LIS)](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp3_%EC%B5%9C%EB%8C%80%20%EB%B6%80%EB%B6%84%20%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4/inf_dp3_%EC%B5%9C%EB%8C%80%20%EB%B6%80%EB%B6%84%20%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4/main.cpp)|인프런|`C++`|풀이 완료 ✅||
 |[최대 선 연결하기](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp4_%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/inf_dp4_%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/main.cpp)|인프런|`C++`|풀이 완료 ✅|LIS 응용|
-|[N으로 표현](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DP.playground/Pages/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DP.playground/Pages/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.xcplaygroundpage/Contents.swift)|
 |[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)|
 
 ### Simulation
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[7주차_입실 퇴실](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/EnterLeave.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-10/week7)|
-|[약수의 개수와 덧셈](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|
 |[없는 숫자 더하기](https://github.com/HeegeePark/DataStructure/blob/38f42d560266b1de95903ef536058d4068479567/Programmers/Simulation.playground/Pages/SumNoExistNumber.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[3진법 뒤집기](https://github.com/HeegeePark/DataStructure/blob/9961857d7834e8c2d776a61e26f6d8666934f7ec/Programmers/Simulation.playground/Pages/Reverse3.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[2016년](https://github.com/HeegeePark/DataStructure/blob/508c16f4ea3bc877d7ea4013dd64e29565d46392/Programmers/Simulation.playground/Pages/2016.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[최소직사각형](https://github.com/HeegeePark/DataStructure/blob/9a194896659462106a821e262b39bbc0027c30cf/Programmers/Simulation.playground/Pages/MinimumRectangle.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-
-
 
 ### 정렬
 |문제|출처|사용 언어|상태|비고|
@@ -71,6 +72,10 @@
 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|2022 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-06/Keypad)|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=swift)|2019 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-12/failureRate)|
 |[신고 결과 받기](Kakao/Swift.playground/Pages/ReportResult.xcplaygroundpage/Contents.swift)|2022 카카오 공채|`Swift`|풀이 완료 ✅||
+
+
+
+
 ---
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
