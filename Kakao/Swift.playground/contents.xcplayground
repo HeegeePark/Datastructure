@@ -9,5 +9,6 @@
         <page name='StringComression'/>
         <page name='ReportResult'/>
         <page name='EditChart'/>
+        <page name='MaximizeFormulas'/>
     </pages>
 </playground>
