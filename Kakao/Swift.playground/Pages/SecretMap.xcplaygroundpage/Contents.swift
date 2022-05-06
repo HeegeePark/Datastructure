@@ -12,7 +12,7 @@ func getMap(_ map1: [String], _ map2: [String]) -> [String] {
     
     zip(map1, map2).forEach {
         answer += [zip($0.0, $0.1).map { c1, c2 in
-            Int(String(c1))! + Int(String(c2))! > 0 ? "#": " "
+            c1 == "1" || c2 == "1" ? "#": " "
         }.joined()]
     }
     return answer
