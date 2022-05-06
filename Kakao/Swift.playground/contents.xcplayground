@@ -11,5 +11,6 @@
         <page name='EditChart'/>
         <page name='MaximizeFormulas'/>
         <page name='SecretMap'/>
+        <page name='GemShopping'/>
     </pages>
 </playground>
