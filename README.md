@@ -75,7 +75,7 @@
 |[표 편집](https://github.com/HeegeePark/DataStructure/blob/master/Kakao/Swift.playground/Pages/EditChart.xcplaygroundpage/Contents.swift)|2021 카카오 인턴십|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-04/%ED%91%9C%ED%8E%B8%EC%A7%91)|
 |[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|2020 카카오 인턴십|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/31a409ac75e05f5284907544f06efe7840f5d20d/Kakao/Swift.playground/Pages/MaximizeFormulas.xcplaygroundpage/Contents.swift)|
 |[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|2018 카카오 공채|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/c2d0c4e1fc752f97babae6d8410272b8d2941a1d/Kakao/Swift.playground/Pages/SecretMap.xcplaygroundpage/Contents.swift)|
-|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|2018 카카오 공채|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/a10961de3c528f1c5474a9645eda7d9520034695/Kakao/Swift.playground/Pages/GemShopping.xcplaygroundpage/Contents.swift)|
+|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|2019 카카오 인턴십|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/a10961de3c528f1c5474a9645eda7d9520034695/Kakao/Swift.playground/Pages/GemShopping.xcplaygroundpage/Contents.swift)|
 
 
 
