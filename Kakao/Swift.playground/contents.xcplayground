@@ -12,5 +12,6 @@
         <page name='MaximizeFormulas'/>
         <page name='SecretMap'/>
         <page name='GemShopping'/>
+        <page name='RaceTrackConstruction'/>
     </pages>
 </playground>
