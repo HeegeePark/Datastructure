@@ -62,6 +62,11 @@
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/k%EB%B2%88%EC%A7%B8%EC%88%98)|
 |[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/diskcontroller)|
 
+### Heap
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Heap.playground/Pages/DoublePriorityQueue.xcplaygroundpage/Contents.swift)|
+
 ### 카카오 기출
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
