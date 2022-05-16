@@ -52,6 +52,7 @@
 |[2016년](https://github.com/HeegeePark/DataStructure/blob/508c16f4ea3bc877d7ea4013dd64e29565d46392/Programmers/Simulation.playground/Pages/2016.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[최소직사각형](https://github.com/HeegeePark/DataStructure/blob/9a194896659462106a821e262b39bbc0027c30cf/Programmers/Simulation.playground/Pages/MinimumRectangle.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|리트코드|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/LeetCode/Simulation.playground/Pages/Roman%20to%20Integer.xcplaygroundpage/Contents.swift)|
 
 ### 정렬
 |문제|출처|사용 언어|상태|비고|
