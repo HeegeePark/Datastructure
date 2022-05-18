@@ -41,6 +41,7 @@
 |[최대 선 연결하기](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/DP/inf_dp4_%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/inf_dp4_%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/main.cpp)|인프런|`C++`|풀이 완료 ✅|LIS 응용|
 |[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DP.playground/Pages/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.xcplaygroundpage/Contents.swift)|
 |[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)|
+|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|리트코드|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/Palindromic)|
 
 ### Simulation
 |문제|출처|사용 언어|상태|비고|
