@@ -5,5 +5,6 @@
         <page name='Budget'/>
         <page name='AddTwoChoice'/>
         <page name='Reminder1'/>
+        <page name='MakeBigNumber'/>
     </pages>
 </playground>
