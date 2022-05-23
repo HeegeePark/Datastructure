@@ -92,10 +92,7 @@
 |[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|2020 카카오 인턴십|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/a10961de3c528f1c5474a9645eda7d9520034695/Kakao/Swift.playground/Pages/GemShopping.xcplaygroundpage/Contents.swift)|
 |[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|2020 카카오 인턴십|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/32e40e511dee9d00e0a0f6fcd4f0a98b650ddc8a/Kakao/Swift.playground/Pages/RaceTrackConstruction.xcplaygroundpage/Contents.swift)|
 
-
-
-
----
+## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
 인프런: [it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
