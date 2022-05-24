@@ -50,18 +50,6 @@
 |[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)|
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|리트코드|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/Palindromic)|
 
-### Simulation
-|문제|출처|사용 언어|상태|비고|
-|:------:|:---:|:---:|:---:|:---:|
-|[7주차_입실 퇴실](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/EnterLeave.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-10/week7)|
-|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|
-|[없는 숫자 더하기](https://github.com/HeegeePark/DataStructure/blob/38f42d560266b1de95903ef536058d4068479567/Programmers/Simulation.playground/Pages/SumNoExistNumber.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[3진법 뒤집기](https://github.com/HeegeePark/DataStructure/blob/9961857d7834e8c2d776a61e26f6d8666934f7ec/Programmers/Simulation.playground/Pages/Reverse3.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[2016년](https://github.com/HeegeePark/DataStructure/blob/508c16f4ea3bc877d7ea4013dd64e29565d46392/Programmers/Simulation.playground/Pages/2016.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[최소직사각형](https://github.com/HeegeePark/DataStructure/blob/9a194896659462106a821e262b39bbc0027c30cf/Programmers/Simulation.playground/Pages/MinimumRectangle.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|리트코드|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/LeetCode/Simulation.playground/Pages/Roman%20to%20Integer.xcplaygroundpage/Contents.swift)|
-
 ### 정렬
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
@@ -91,6 +79,18 @@
 |[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|2018 카카오 공채|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/c2d0c4e1fc752f97babae6d8410272b8d2941a1d/Kakao/Swift.playground/Pages/SecretMap.xcplaygroundpage/Contents.swift)|
 |[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|2020 카카오 인턴십|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/a10961de3c528f1c5474a9645eda7d9520034695/Kakao/Swift.playground/Pages/GemShopping.xcplaygroundpage/Contents.swift)|
 |[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|2020 카카오 인턴십|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/32e40e511dee9d00e0a0f6fcd4f0a98b650ddc8a/Kakao/Swift.playground/Pages/RaceTrackConstruction.xcplaygroundpage/Contents.swift)|
+
+### Implement
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[7주차_입실 퇴실](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/EnterLeave.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-10/week7)|
+|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/45109a4a2a5ef6c9604eab1b214868fca7d1b191/Programmers/Simulation.playground/Pages/DivisorCount%26Addition.xcplaygroundpage/Contents.swift)|
+|[없는 숫자 더하기](https://github.com/HeegeePark/DataStructure/blob/38f42d560266b1de95903ef536058d4068479567/Programmers/Simulation.playground/Pages/SumNoExistNumber.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[3진법 뒤집기](https://github.com/HeegeePark/DataStructure/blob/9961857d7834e8c2d776a61e26f6d8666934f7ec/Programmers/Simulation.playground/Pages/Reverse3.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[2016년](https://github.com/HeegeePark/DataStructure/blob/508c16f4ea3bc877d7ea4013dd64e29565d46392/Programmers/Simulation.playground/Pages/2016.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[최소직사각형](https://github.com/HeegeePark/DataStructure/blob/9a194896659462106a821e262b39bbc0027c30cf/Programmers/Simulation.playground/Pages/MinimumRectangle.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|리트코드|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/LeetCode/Simulation.playground/Pages/Roman%20to%20Integer.xcplaygroundpage/Contents.swift)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
