@@ -91,6 +91,9 @@
 |[최소직사각형](https://github.com/HeegeePark/DataStructure/blob/9a194896659462106a821e262b39bbc0027c30cf/Programmers/Simulation.playground/Pages/MinimumRectangle.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|리트코드|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/LeetCode/Simulation.playground/Pages/Roman%20to%20Integer.xcplaygroundpage/Contents.swift)|
+|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/Lottos.xcplaygroundpage/Contents.swift)|
+|[음양 더하기]()|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드]()|
+|[가운데 글자 가져오기]()|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드]()|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
