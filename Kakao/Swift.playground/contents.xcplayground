@@ -13,5 +13,6 @@
         <page name='SecretMap'/>
         <page name='GemShopping'/>
         <page name='RaceTrackConstruction'/>
+        <page name='DartGame'/>
     </pages>
 </playground>
