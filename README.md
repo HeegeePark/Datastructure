@@ -2,7 +2,7 @@
 ## 개념 정리
 [📌 알고리즘에 필요한 Swift Basic 총정리](https://github.com/HeegeePark/MyStudySpace/blob/master/Algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90%20%ED%95%84%EC%9A%94%ED%95%9C%20Swift%20Basic.md)
 
-[📌 Swift를 활용한 자료구조와 알고리즘 개념](https://github.com/HeegeePark/MyStudySpace/blob/master/Algorithm/Swift%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20Data%20Structure%EC%99%80%20Algorithm%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%98%88%EC%A0%9C%20%EC%A0%95%EB%A6%AC.md)
+[📌 Swift를 활용한 자료구조와 알고리즘 개념](https://github.com/HeegeePark/MyStudySpace/blob/master/Algorithm/Swift%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20Data%20Structure%EC%99%80%20Algorithm%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC.md)
 
 ## 풀이 문제 모음
 ### Greedy
@@ -93,11 +93,38 @@
 |[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|리트코드|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/LeetCode/Simulation.playground/Pages/Roman%20to%20Integer.xcplaygroundpage/Contents.swift)|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/Lottos.xcplaygroundpage/Contents.swift)|
-|[음양 더하기]()|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드]()|
-|[가운데 글자 가져오기]()|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드]()|
-
+|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930#)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|프로그래머스|`Swift`|풀이 완료 ✅||
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
 인프런: [it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
 
