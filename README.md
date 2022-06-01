@@ -123,6 +123,7 @@
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EB%A9%80%EC%A9%A1%ED%95%9C-%EC%82%AC%EA%B0%81%ED%98%95)|
+|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
