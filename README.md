@@ -125,6 +125,7 @@
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EB%A9%80%EC%A9%A1%ED%95%9C-%EC%82%AC%EA%B0%81%ED%98%95)|
 |[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|
 |[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)|
+|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
