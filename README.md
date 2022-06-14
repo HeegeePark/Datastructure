@@ -131,6 +131,7 @@
 |[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)|
 |[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)|
 |[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
+|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
