@@ -9,5 +9,8 @@
         <page name='MinimumRectangle'/>
         <page name='MoneytoNeed'/>
         <page name='Lottos'/>
+        <page name='음양 더하기'/>
+        <page name='가운데 글자 가져오기'/>
+        <page name='소수 찾기'/>
     </pages>
 </playground>
