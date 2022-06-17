@@ -97,8 +97,8 @@
 |[부족한 금액 계산하기](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/MoneytoNeed.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|리트코드|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/LeetCode/Simulation.playground/Pages/Roman%20to%20Integer.xcplaygroundpage/Contents.swift)|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/Lottos.xcplaygroundpage/Contents.swift)|
-|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/d4e167b7373931258bfa91c34c4b9bc8b915d9e9/Programmers/Simulation.playground/Pages/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.xcplaygroundpage/Contents.swift)|
+|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/d4e167b7373931258bfa91c34c4b9bc8b915d9e9/Programmers/Simulation.playground/Pages/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.xcplaygroundpage/Contents.swift)|
 |[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|프로그래머스|`Swift`|풀이 완료 ✅||
@@ -125,7 +125,7 @@
 |[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|프로그래머스|`Swift`|풀이 완료 ✅||
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|프로그래머스|`Swift`|풀이 완료 ✅||
-|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|프로그래머스|`Swift`|풀이 완료 ✅||
+|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/d4e167b7373931258bfa91c34c4b9bc8b915d9e9/Programmers/Simulation.playground/Pages/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.xcplaygroundpage/Contents.swift)|
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EB%A9%80%EC%A9%A1%ED%95%9C-%EC%82%AC%EA%B0%81%ED%98%95)|
 |[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)|
 |[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%96%89%EB%A0%AC-%ED%85%8C%EB%91%90%EB%A6%AC-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)|
