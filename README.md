@@ -16,13 +16,14 @@
 |[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42883)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Reminder1.xcplaygroundpage/Contents.swift)|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/87389)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](Programmers/Greedy.playground/Pages/MakeBigNumber.xcplaygroundpage/Contents.swift)|
 
-### Queue
+### Queue, Stack
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[73. 최대힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_73_%EC%B5%9C%EB%8C%80%ED%9E%99(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)/inf_73_%EC%B5%9C%EB%8C%80%ED%9E%99(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
 |[74. 최소힙](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/Queue/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/inf_74_%EC%B5%9C%EC%86%8C%ED%9E%99/main.cpp)|인프런|`C++`|풀이 완료 ✅|우선순위큐|
 |[기능 개발](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/DevelopFeature.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%94%84%EB%A6%B0%ED%84%B0)|
+|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|프로그래머스|`Swift`|풀이 완료 ✅|[Stack] [소스 코드](https://github.com/HeegeePark/DataStructure/blob/42928d45582c5a655606404b4857b58433121381/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.xcplaygroundpage/Contents.swift)|
 
 
 ### DFS
