@@ -134,6 +134,8 @@
 |[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)|
 |[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/N%EA%B0%9C%EC%9D%98-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|
+|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
+|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EB%B9%9B%EC%9D%98-%EA%B2%BD%EB%A1%9C-%EC%82%AC%EC%9D%B4%ED%81%B4)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
