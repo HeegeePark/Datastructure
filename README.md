@@ -52,6 +52,7 @@
 |[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DP.playground/Pages/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.xcplaygroundpage/Contents.swift)|
 |[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84)|
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|리트코드|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/Palindromic)|
+|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98)|
 
 ### 정렬
 |문제|출처|사용 언어|상태|비고|
