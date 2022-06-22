@@ -14,6 +14,7 @@
         <page name='GemShopping'/>
         <page name='RaceTrackConstruction'/>
         <page name='DartGame'/>
-        <page name='괄호변환'/>
+        <page name='괄호변환'/>
+        <page name='양궁대회'/>
     </pages>
 </playground>
