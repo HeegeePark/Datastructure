@@ -3,6 +3,7 @@
     <pages>
         <page name='DevelopFeature'/>
         <page name='TruckPassing'/>
-        <page name='올바른 괄호'/>
+        <page name='올바른 괄호'/>
+        <page name='Cache'/>
     </pages>
 </playground>
