@@ -87,6 +87,7 @@
 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|2020 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EA%B4%84%ED%98%B8-%EB%B3%80%ED%99%98)|
 |[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|2018 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)|
 |[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|2022 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C)|
+|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|2018 카카오 공채|`Swift`|풀이 완료 ✅||
 
 ### Implement
 |문제|출처|사용 언어|상태|비고|
@@ -144,5 +145,4 @@
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
 
 인프런: [it 취업을 위한 알고리즘 문제풀이 (with C/C++) : 코딩테스트 대비](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-
 

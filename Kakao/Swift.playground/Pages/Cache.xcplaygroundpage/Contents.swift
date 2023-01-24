@@ -1,5 +1,6 @@
 //: [Previous](@previous)
 
+// 2018 카카오 공채 캐시
 import Foundation
 
 var answer = 0
