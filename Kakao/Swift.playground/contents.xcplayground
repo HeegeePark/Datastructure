@@ -15,6 +15,8 @@
         <page name='RaceTrackConstruction'/>
         <page name='DartGame'/>
         <page name='괄호변환'/>
-        <page name='양궁대회'/>
+        <page name='양궁대회'/>
+        <page name='Cache'/>
+        <page name='k진수에서 소수 개수 구하기'/>
     </pages>
 </playground>
