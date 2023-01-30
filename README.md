@@ -88,6 +88,7 @@
 |[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|2018 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)|
 |[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|2022 카카오 공채|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C)|
 |[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|2018 카카오 공채|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/e3804b175f1d7600ed7611701a520c5e7a147c3f/Kakao/Swift.playground/Pages/Cache.xcplaygroundpage/Contents.swift)|
+|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2022 카카오 공채|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/cc03cbeb7f02dce4e4a6b677415fe6338d7bd867/Kakao/Swift.playground/Pages/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.xcplaygroundpage/Contents.swift)|
 
 ### Implement
 |문제|출처|사용 언어|상태|비고|
