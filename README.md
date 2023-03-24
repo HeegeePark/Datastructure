@@ -24,6 +24,8 @@
 |[기능 개발](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/DevelopFeature.xcplaygroundpage/Contents.swift)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2021-07/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%94%84%EB%A6%B0%ED%84%B0)|
 |[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|프로그래머스|`Swift`|풀이 완료 ✅|[Stack] [소스 코드](https://github.com/HeegeePark/DataStructure/blob/42928d45582c5a655606404b4857b58433121381/Programmers/%EC%8A%A4%ED%83%9D_%ED%81%90.playground/Pages/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.xcplaygroundpage/Contents.swift)|
+|[4949.균형잡힌 세상](https://www.acmicpc.net/problem/4949)|백준|`Swift`|풀이 완료 ✅|[Stack] [소스 코드](https://github.com/HeegeePark/DataStructure/blob/2160302c9fa3e1fa242ae75f62f338715e415420/Baekjoon/Stack/BJ_4949(%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81).md)|
+|[3986.좋은 단어](https://www.acmicpc.net/problem/3986)|백준|`Swift`|풀이 완료 ✅|[Stack] [소스 코드](https://github.com/HeegeePark/DataStructure/blob/9bea0dec4ab68c2c4cb3477a5f1084dcf2d21c63/Baekjoon/Stack/BJ_3986(%EC%A2%8B%EC%9D%80%20%EB%8B%A8%EC%96%B4).md)|
 
 
 ### DFS
