@@ -27,6 +27,11 @@
 |[4949.균형잡힌 세상](https://www.acmicpc.net/problem/4949)|백준|`Swift`|풀이 완료 ✅|[Stack] [소스 코드](https://github.com/HeegeePark/DataStructure/blob/2160302c9fa3e1fa242ae75f62f338715e415420/Baekjoon/Stack/BJ_4949(%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%20%EC%84%B8%EC%83%81).md)|
 |[3986.좋은 단어](https://www.acmicpc.net/problem/3986)|백준|`Swift`|풀이 완료 ✅|[Stack] [소스 코드](https://github.com/HeegeePark/DataStructure/blob/9bea0dec4ab68c2c4cb3477a5f1084dcf2d21c63/Baekjoon/Stack/BJ_3986(%EC%A2%8B%EC%9D%80%20%EB%8B%A8%EC%96%B4).md)|
 
+### BruteForce
+|문제|출처|사용 언어|상태|비고|
+|:------:|:---:|:---:|:---:|:---:|
+|[2798.블랙잭](https://www.acmicpc.net/problem/2798)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BruteForce/BJ_2798(블랙잭).md)|
+
 
 ### DFS
 |문제|출처|사용 언어|상태|비고|
