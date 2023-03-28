@@ -31,6 +31,8 @@
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
 |[2798.블랙잭](https://www.acmicpc.net/problem/2798)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BruteForce/BJ_2798(블랙잭).md)|
+|[2231.분해합](https://www.acmicpc.net/problem/2231)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BruteForce/BJ_2231(분해합).md)|
+|[19532.수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)|백준|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/2f767e5e78131c4372c0bf3ee8a833516f7650ac/Baekjoon/BruteForce/BJ_199532(%EC%88%98%ED%95%99%EC%9D%80%20%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4).md)|
 
 
 ### DFS
