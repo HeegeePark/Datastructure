@@ -150,6 +150,10 @@
 |[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 |[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%EB%B9%9B%EC%9D%98-%EA%B2%BD%EB%A1%9C-%EC%82%AC%EC%9D%B4%ED%81%B4)|
 |[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Simulation.playground/Pages/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.xcplaygroundpage/Contents.swift)|
+|[11720.숫자의 합](https://www.acmicpc.net/problem/11720)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_11720(숫자의합).md)|
+|[3029.경고](https://www.acmicpc.net/problem/3029)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_3029(경고).md)|
+|[9046.복호화](https://www.acmicpc.net/problem/9046)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_9046(복호화).md)|
+|[11365.!밀비 급일](https://www.acmicpc.net/problem/11365)|백준|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/ecb21897763d14632de4fddb314acc31a41f3928/Baekjoon/String/BJ_11365(!%EB%B0%80%EB%B9%84%20%EA%B8%89%EC%9D%BC).md)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
