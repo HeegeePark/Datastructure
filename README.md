@@ -154,6 +154,8 @@
 |[3029.경고](https://www.acmicpc.net/problem/3029)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_3029(경고).md)|
 |[9046.복호화](https://www.acmicpc.net/problem/9046)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_9046(복호화).md)|
 |[11365.!밀비 급일](https://www.acmicpc.net/problem/11365)|백준|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/ecb21897763d14632de4fddb314acc31a41f3928/Baekjoon/String/BJ_11365(!%EB%B0%80%EB%B9%84%20%EA%B8%89%EC%9D%BC).md)|
+|[17413.단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_17413(단어뒤집기2).md)|
+|[21918.전구](https://www.acmicpc.net/problem/21918)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Simulation/BJ_21918(전구).md)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
