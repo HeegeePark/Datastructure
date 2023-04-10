@@ -39,13 +39,14 @@
 ### DFS
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
+|[1260.DFS와 BFS](https://www.acmicpc.net/problem/1260)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_1260(DFS와 BFS).md)|
 |[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/TravelRoute.xcplaygroundpage/Contents.swift)|
 |[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-03/NQueen)|
 |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/Network.xcplaygroundpage/Contents.swift)|
 |[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/TargetNumber.xcplaygroundpage/Contents.swift)|
 |[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/DFS.playground/Pages/WordConversion.xcplaygroundpage/Contents.swift)|
 |[11725.트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_11725(트리의부모찾기).md)|
-|[1325.트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_11725(트리의부모찾기).md)|
+|[1325.효율적인해킹](https://www.acmicpc.net/problem/1325)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_1325(효율적인해킹).md)|
 
 ### BFS
 |문제|출처|사용 언어|상태|비고|
@@ -53,6 +54,10 @@
 |[71. 송아지찾기](https://github.com/HeegeePark/DataStructure/blob/master/C%2B%2B/BFS/inf_71_%EC%86%A1%EC%95%84%EC%A7%80%EC%B0%BE%EA%B8%B0(%EC%83%81%ED%83%9C%ED%8A%B8%EB%A6%AC%ED%83%90%EC%83%89)/%EC%86%A1%EC%95%84%EC%A7%80%EC%B0%BE%EA%B8%B0(%EC%83%81%ED%83%9C%ED%8A%B8%EB%A6%AC%ED%83%90%EC%83%89)/main.cpp)|인프런|`C++`|풀이 완료 ✅|상태트리탐색|
 |[72. 공주구하기](https://github.com/HeegeePark/DataStructure/blob/ebd20caa1fba74c495d514cc0761e9e74a2d542b/C%2B%2B/BFS/inf_72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0(%ED%81%90%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0(%ED%81%90%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/main.cpp)|인프런|`C++`|풀이 완료 ✅|조세퍼스:큐|
 |[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-05/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C)|
+|[2178.미로탐색](https://www.acmicpc.net/problem/2178)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_2178(미로탐색).md)|
+|[2667.단지번호붙이기](https://www.acmicpc.net/problem/2667)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_2667(단지번호붙이기).md)|
+|[2606.바이러스](https://www.acmicpc.net/problem/2606)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_2606(바이러스).md)|
+|[14940.쉬운최단거리](https://www.acmicpc.net/problem/14940)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_14940(쉬운최단거리).md)|
 
 ### DP
 |문제|출처|사용 언어|상태|비고|
@@ -160,6 +165,7 @@
 |[17413.단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_17413(단어뒤집기2).md)|
 |[21918.전구](https://www.acmicpc.net/problem/21918)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Simulation/BJ_21918(전구).md)|
 |[20291.파일정리](https://www.acmicpc.net/problem/20291)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_20291(파일정리).md)|
+|[17276.배열돌리기](https://www.acmicpc.net/problem/17276)|백준|`Swift`|풀이중 ☑️|[소스 코드](Baekjoon/Simulation/BJ_17276(배열돌리기).md)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
