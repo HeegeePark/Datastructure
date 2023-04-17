@@ -38,7 +38,8 @@
 ### Back Tracking
 |문제|출처|사용 언어|상태|비고|
 |:------:|:---:|:---:|:---:|:---:|
-|[15649.N과M](https://www.acmicpc.net/problem/15649)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15649(N과M).md)|
+|[15649.N과 M 1](https://www.acmicpc.net/problem/15649)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15649(N과M1).md)|
+|[15650.N과 M 2](https://www.acmicpc.net/problem/15650)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15650(N과M2).md)|
 
 ### Binary Search
 |문제|출처|사용 언어|상태|비고|
