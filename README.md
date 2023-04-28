@@ -70,6 +70,7 @@
 |[2667.단지번호붙이기](https://www.acmicpc.net/problem/2667)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_2667(단지번호붙이기).md)|
 |[2606.바이러스](https://www.acmicpc.net/problem/2606)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_2606(바이러스).md)|
 |[14940.쉬운최단거리](https://www.acmicpc.net/problem/14940)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_14940(쉬운최단거리).md)|
+|[1012.유기농배추](https://www.acmicpc.net/problem/1012)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Graph/BJ_1012(유기농배추).md)|
 
 ### DP
 |문제|출처|사용 언어|상태|비고|
