@@ -19,6 +19,7 @@
         <page name='Cache'/>
         <page name='k진수에서 소수 개수 구하기'/>
         <page name='택배 배달과 수거하기'/>
-        <page name='두 큐 합 같게 만들기'/>
+        <page name='두 큐 합 같게 만들기'/>
+        <page name='성격유형검사하기'/>
     </pages>
 </playground>
