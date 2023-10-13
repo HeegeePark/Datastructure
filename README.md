@@ -183,6 +183,7 @@
 |[21918.전구](https://www.acmicpc.net/problem/21918)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/Simulation/BJ_21918(전구).md)|
 |[20291.파일정리](https://www.acmicpc.net/problem/20291)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/String/BJ_20291(파일정리).md)|
 |[17276.배열돌리기](https://www.acmicpc.net/problem/17276)|백준|`Swift`|풀이중 ☑️|[소스 코드](Baekjoon/Simulation/BJ_17276(배열돌리기).md)|
+|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](Programmers/Simulation.playground/Pages/전력망을둘로나누기.xcplaygroundpage/Contents.swift)|
 
 ## etc.
 [알고리즘 스터디 문제 풀이 이슈](https://github.com/HeegeePark/Algorithm-Study-Archiving/issues)
