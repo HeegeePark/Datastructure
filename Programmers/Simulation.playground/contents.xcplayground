@@ -12,6 +12,7 @@
         <page name='음양 더하기'/>
         <page name='가운데 글자 가져오기'/>
         <page name='소수 찾기'/>
-        <page name='다음 큰 숫자'/>
+        <page name='다음 큰 숫자'/>
+        <page name='전력망을둘로나누기'/>
     </pages>
 </playground>
