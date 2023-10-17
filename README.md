@@ -16,6 +16,7 @@
 |[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42883)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](https://github.com/HeegeePark/DataStructure/blob/master/Programmers/Greedy.playground/Pages/Reminder1.xcplaygroundpage/Contents.swift)|
 |[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/87389)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](Programmers/Greedy.playground/Pages/MakeBigNumber.xcplaygroundpage/Contents.swift)|
 |[12933.오리](https://www.acmicpc.net/problem/12933)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/GreedyAlgorithm/BJ_12933(오리).md)|
+|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|프로그래머스|`Swift`|풀이 완료 ✅|[소스 코드](Programmers/Greedy.playground/Pages/섬연결하기.xcplaygroundpage/Contents.swift)
 
 ### Queue, Stack
 |문제|출처|사용 언어|상태|비고|
