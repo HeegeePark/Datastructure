@@ -6,5 +6,6 @@
         <page name='AddTwoChoice'/>
         <page name='Reminder1'/>
         <page name='MakeBigNumber'/>
+        <page name='섬연결하기'/>
     </pages>
 </playground>
