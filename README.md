@@ -43,6 +43,7 @@
 |[15650.N과 M 2](https://www.acmicpc.net/problem/15650)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15650(N과M2).md)|
 |[15651.N과 M 3](https://www.acmicpc.net/problem/15651)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15651(N과M3).md)|
 |[15652.N과 M 4](https://www.acmicpc.net/problem/15652)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15652(N과M4).md)|
+|[15654.N과 M 5](https://www.acmicpc.net/problem/15654)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/BackTracking/BJ_15654(N과M5).md)|
 
 ### Binary Search
 |문제|출처|사용 언어|상태|비고|
