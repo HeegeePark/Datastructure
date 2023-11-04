@@ -87,6 +87,7 @@
 |[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|프로그래머스|`Swift`|풀이 완료 ✅|[블로그 기록](https://heegeepark.github.io//articles/2022-06/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98)|
 |[1010.다리놓기](https://www.acmicpc.net/problem/1010)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/DynamicPrograming/BJ_1010(다리놓기).md)|
 |[2748.피보나치수2](https://www.acmicpc.net/problem/2748)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/DynamicPrograming/BJ_2748(피보나치수2).md)|
+|[12865.평범한 배낭](https://www.acmicpc.net/problem/12865)|백준|`Swift`|풀이 완료 ✅|[소스 코드](Baekjoon/DynamicPrograming/BJ_12865(평범한배낭).md)|
 
 ### 정렬
 |문제|출처|사용 언어|상태|비고|
